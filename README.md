@@ -11,7 +11,7 @@ What is critical to test?
  2. I also want to test the CurrencyRates so it calculates correctly when the used Rate has been changed or not changed.
     I believe this is a crucial part when doing international transfers. 
     What can go wrong? Well if the rate isnt updated correctly in the system, then you either loose money or earn money. and the same for the recipient.
-    Ofcourse we want the rate to be up to date and works.
+    Ofcourse we want the rate to be up to date and working.
     
  3. I want to test the UserLogin method, I think its really important to be logged into the correct User. It goes without saying. but still want to test it.
     What can go wrong? Well you might be logged into another account? maybe as an admin if the system has flaws. and that is stressful to think about in a live finished
