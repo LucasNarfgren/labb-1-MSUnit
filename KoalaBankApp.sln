@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31829.152
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KoalaBankApp", "KoalaBankApp\KoalaBankApp.csproj", "{881D1902-D5DC-4749-BE2F-2B33DD6AD9C5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KoalaBankApp", "KoalaBankApp\KoalaBankApp.csproj", "{881D1902-D5DC-4749-BE2F-2B33DD6AD9C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KoalaBankApp.Test", "KoalaBankApp.Test\KoalaBankApp.Test.csproj", "{65F7B34B-65BD-411C-8C77-EC5F741B46E0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{881D1902-D5DC-4749-BE2F-2B33DD6AD9C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{881D1902-D5DC-4749-BE2F-2B33DD6AD9C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{881D1902-D5DC-4749-BE2F-2B33DD6AD9C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65F7B34B-65BD-411C-8C77-EC5F741B46E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65F7B34B-65BD-411C-8C77-EC5F741B46E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65F7B34B-65BD-411C-8C77-EC5F741B46E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65F7B34B-65BD-411C-8C77-EC5F741B46E0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

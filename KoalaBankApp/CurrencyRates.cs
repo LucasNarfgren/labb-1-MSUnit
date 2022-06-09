@@ -9,6 +9,10 @@ namespace KoalaBankApp
         public string _Type;
         public double _Rate;
 
+        public CurrencyRates()
+        {
+        }
+
         public CurrencyRates(string type, double rate)
         {
             this._Rate = rate;
